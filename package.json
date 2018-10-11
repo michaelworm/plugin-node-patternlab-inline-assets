@@ -1,0 +1,37 @@
+{
+    "name": "plugin-node-patternlab-inline-assets",
+    "version": "1.0.0",
+    "description": "Inline Assets Plugin for Pattern Lab Node",
+    "main": "index.js",
+    "author": {
+        "name": "Michael 'Miw0' Worm",
+        "email": "MrMiw0@gmail.com",
+        "url": "https://github.com/Miw0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Miw0/plugin-node-patternlab-inline-assets"
+    },
+    "keywords": [
+        "patternlab",
+        "pattern lab",
+        "handlebars",
+        "inline assets",
+        "inline",
+        "assets",
+        "svg"
+    ],
+    "bugs": {
+        "url": "https://github.com/Miw0/plugin-node-patternlab-inline-assets/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Miw0/plugin-node-patternlab-inline-assets/blob/master/LICENSE"
+        }
+    ],
+    "engines": {
+        "node": ">= 8.11.1"
+    },
+    "dependencies": {}
+}
