@@ -10,7 +10,7 @@
 
 Add the Inline Assets Plugin to your project using [npm](http://npmjs.com/):
 
-    npm install --save handlebars-inline
+    npm install --save plugin-node-patternlab-inline-assets
  
 After that tell Pattern Lab to install the plugin:
 
