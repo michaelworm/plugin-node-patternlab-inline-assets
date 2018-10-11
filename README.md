@@ -25,6 +25,7 @@ Use 3 curly brackets to tell handlebars to stop escaping, then call the inline p
     
 Your asset will then be inlined into your template before compiling.
 
+***
 
 ## Thanks
 
