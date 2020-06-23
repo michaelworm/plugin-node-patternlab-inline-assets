@@ -29,4 +29,4 @@ Your asset will then be inlined into your template before compiling.
 
 ## Thanks
 
-The Inline Assets Plugin for [Pattern Lab Node](https://github.com/pattern-lab/patternlab-node) was created and is maintained by [Michael Worm](https://github.com/Miw0).
+The Inline Assets Plugin for [Pattern Lab Node](https://github.com/pattern-lab/patternlab-node) was created and is maintained by [Michael Worm](https://github.com/michaelworm/).
