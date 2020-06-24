@@ -6,11 +6,11 @@
     "author": {
         "name": "Michael 'Miw0' Worm",
         "email": "MrMiw0@gmail.com",
-        "url": "https://github.com/Miw0"
+        "url": "https://github.com/michaelworm"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Miw0/plugin-node-patternlab-inline-assets"
+        "url": "https://github.com/michaelworm/plugin-node-patternlab-inline-assets"
     },
     "keywords": [
         "Pattern Lab",
@@ -22,7 +22,7 @@
         "svg",
         "Javascript"
     ],
-    "bugs": "https://github.com/Miw0/plugin-node-patternlab-inline-assets/issues",
+    "bugs": "https://github.com/michaelworm/plugin-node-patternlab-inline-assets/issues",
     "license": "MIT",
     "engines": {
         "node": ">=8.11"
